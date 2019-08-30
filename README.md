@@ -1,2 +1,2 @@
 # Heuris-AI
-Demo for Watson services
+An image recognition software that detects and identifies the objects in an image using IBM Watson's visual recognition AI. 
