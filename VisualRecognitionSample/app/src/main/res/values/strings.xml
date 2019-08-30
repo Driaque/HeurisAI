@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Heuris AI</string>
+    <string name="title_activity_take_photo">TakePhotoActivity</string>
+</resources>
