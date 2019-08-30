@@ -1,2 +1,2 @@
-# IBM-Watson-Demo
+# Heuris-AI
 Demo for Watson services
