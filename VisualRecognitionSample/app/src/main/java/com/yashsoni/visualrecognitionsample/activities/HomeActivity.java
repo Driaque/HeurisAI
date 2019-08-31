@@ -33,7 +33,7 @@ import io.reactivex.schedulers.Schedulers;
 public class HomeActivity extends AppCompatActivity {
 
     // IBM WATSON VISUAL RECOGNITION RELATED
-    private final String API_KEY = "w48t331nluL-6atiCJGmSzqf9Cq8PNdnhXiptbkTEmDh";
+    private final String API_KEY = "INSERT YOUR KEY HERE";
 
     Button btnFetchResults;
     EditText etUrl;
