@@ -45,7 +45,7 @@ import io.reactivex.schedulers.Schedulers;
 
 public class TakePhotoActivity extends AppCompatActivity {
 
-    private final String API_KEY = "w48t331nluL-6atiCJGmSzqf9Cq8PNdnhXiptbkTEmDh";
+    private final String API_KEY = "INSERT KEY HERE";
     Single<ClassifiedImages> observable;
     private float threshold = (float) 0.6;
     Button btnFetchResults;
